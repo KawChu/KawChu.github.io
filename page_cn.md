@@ -1,4 +1,5 @@
-# [欢迎来到Kaw的Github博客](https://KawChu.github.io)
+# **[欢迎来到Kaw的Github博客](https://KawChu.github.io)**
+
 **语言: [[English]](https://KawChu.github.io/page_en)**
 
 这是我的第一个博客系统，很高兴得到您的关注。
@@ -9,10 +10,10 @@
 
 ***
 
-## 个人简介
+## **个人简介**
 Kaw，一名计算机科学与技术专业的本科生，2019年毕业，目前在四大实习，工作内容为python后端大数据开发及企业数字化信息技术咨询。
 
-## 目录
+## **目录**
 
 ### 代码
 * 通过**Quandl**获取证券交易数据
