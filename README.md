@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to Kaw's Github Blog
 
-You can use the [editor on GitHub](https://github.com/KawChu/KawChu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my first blog, also very happy to get your attention.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find the blog home page by browsing this [https://KawChu.github.io](https://KawChu.github.io) to check all the articles. 
+
+Blog content is not limited to technical posts, but also share some bloggers'opinions on computer science and technology.I use Markdown to write post.
+
+***
 
 ### Markdown
 
