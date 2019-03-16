@@ -1,7 +1,8 @@
+**Language: [[English]](https://KawChu.github.io) [[Chinese]](https://KawChu.github.io/page1)**
+
 # [Welcome to Kaw's Github Blog](https://KawChu.github.io)
 
 This is my first blog, also very happy to get your attention.ijewfl
-Language: [English](https://KawChu.github.io) [Chinese](https://KawChu.github.io/page1)
 
 You can find the blog home page by browsing this [https://KawChu.github.io](https://KawChu.github.io) to check all the articles. 
 
