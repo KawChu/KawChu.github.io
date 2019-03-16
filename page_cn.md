@@ -1,5 +1,5 @@
 # [欢迎来到Kaw的Github博客](https://KawChu.github.io)
-**语言: [[English]](https://KawChu.github.io/_en)**
+**语言: [[English]](https://KawChu.github.io/page_en)**
 
 这是我的第一个博客系统，很高兴得到您的关注。
 
