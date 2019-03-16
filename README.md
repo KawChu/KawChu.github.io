@@ -15,7 +15,6 @@ Kaw, a computer science and technology undergraduate who graduated in 2019, is c
 ## Catalogue
 
 ### Code Sharing
-
 * Obtaining Stock Exchange Data through **Quandl**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
