@@ -1,4 +1,5 @@
-# [Welcome to Kaw's Github Blog](https://KawChu.github.io)
+# **[Welcome to Kaw's Github Blog](https://KawChu.github.io)**
+
 **Language: [[Chinese]](https://KawChu.github.io/page_cn)**
 
 This is my first blog, also very happy to get your attention.
@@ -12,9 +13,10 @@ Blog content is not limited to technical posts, but also share some bloggers'opi
 ## **About Me**
 Kaw, a computer science and technology undergraduate who graduated in 2019, is currently interning in Four big, responsible for python back-end big data development and enterprise digital information technology consulting.
 
-## Catalogue
+## **Catalogue**
 
 ### Code Sharing
 * Obtaining Stock Exchange Data through **Quandl**
+
 ### Exchange Articles
 * Online programming
