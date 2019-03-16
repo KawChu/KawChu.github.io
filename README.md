@@ -8,7 +8,15 @@ Blog content is not limited to technical posts, but also share some bloggers'opi
 
 ***
 
-### Markdown
+## About Me
+
+Kaw, a computer science and technology undergraduate who graduated in 2019, is currently interning in Four big, responsible for python back-end big data development and enterprise digital information technology consulting.
+
+## Catalogue
+
+### Code Sharing
+
+* Obtaining Stock Exchange Data through **Quandl**
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
