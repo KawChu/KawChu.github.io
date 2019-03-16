@@ -1,4 +1,4 @@
-**Language: [[English]](https://KawChu.github.io) [[Chinese]](https://KawChu.github.io/page1)**
+**Language: [[Chinese]](https://KawChu.github.io/_cn) [[English]](https://KawChu.github.io/_en)**
 
 # [Welcome to Kaw's Github Blog](https://KawChu.github.io)
 
