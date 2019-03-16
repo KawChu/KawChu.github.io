@@ -9,7 +9,7 @@ Blog content is not limited to technical posts, but also share some bloggers'opi
 
 ***
 
-## About Me
+## **About Me**
 Kaw, a computer science and technology undergraduate who graduated in 2019, is currently interning in Four big, responsible for python back-end big data development and enterprise digital information technology consulting.
 
 ## Catalogue
