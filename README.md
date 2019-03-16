@@ -1,4 +1,6 @@
-# Welcome to Kaw's Github Blog
+**Language: [[English]](https://KawChu.github.io) [[Chinese]](https://KawChu.github.io/page1)**
+
+# [Welcome to Kaw's Github Blog](https://KawChu.github.io)
 
 This is my first blog, also very happy to get your attention.
 
@@ -9,13 +11,14 @@ Blog content is not limited to technical posts, but also share some bloggers'opi
 ***
 
 ## About Me
-
 Kaw, a computer science and technology undergraduate who graduated in 2019, is currently interning in Four big, responsible for python back-end big data development and enterprise digital information technology consulting.
 
 ## Catalogue
 
 ### Code Sharing
 * Obtaining Stock Exchange Data through **Quandl**
+### Exchange Articles
+* Online programming
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
