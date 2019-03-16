@@ -1,5 +1,5 @@
 # [Welcome to Kaw's Github Blog](https://KawChu.github.io)
-**Language: [[Chinese]](https://KawChu.github.io/_cn)**
+**Language: [[Chinese]](https://KawChu.github.io/page_cn)**
 
 This is my first blog, also very happy to get your attention.
 
