@@ -16,7 +16,7 @@ Kaw，一名计算机科学与技术专业的本科生，2019年毕业，目前�
 ## **目录**
 
 ### 代码
-* 通过**Quandl**获取证券交易数据
+* [通过**Quandl**获取证券交易数据](https://KawChu.github.io/code_file/quandl_cn)
 
 ### 分享
 * 在线编程
