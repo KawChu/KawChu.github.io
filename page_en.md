@@ -16,7 +16,7 @@ Kaw, a computer science and technology undergraduate who graduated in 2019, is c
 ## **Catalogue**
 
 ### Code Sharing
-* Obtaining Stock Exchange Data through **Quandl**
+* [Obtaining Stock Exchange Data through **Quandl**](https://KawChu.github.io/code_file/quandl_en)
 
 ### Exchange Articles
 * Online programming
