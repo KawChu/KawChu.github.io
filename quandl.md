@@ -2,7 +2,7 @@
 
 ## 简介
 
-> **[Quandl]**(https://www.quandl.com/) 是一个针对**金融投资行业的大数据平台**，其数据来源包括联合国、世界银行、中央银行等公开数据，核心财务数据来自 CLS集团，Zacks和ICE等，所有的数据源自500多家发布商。![QUANDL](https://www.egouz.com/uploadfile/2017/0919/20170919091540902166.jpg "web页面")
+> **[Quandl]**(https://www.quandl.com/) 是一个针对**金融投资行业的大数据平台**，它的数据来源包括联合国、世界银行、中央银行等公开数据，核心财务数据来自 CLS集团，Zacks和ICE等，所有的数据源自500多家发布商。![QUANDL](https://www.egouz.com/uploadfile/2017/0919/20170919091540902166.jpg "web页面")
 
 我们可以通过for_free或者share的方式获取到需要的数据样本，获取之后通过下载/编程接口（使用不同的编码）进行数据的调用。
 
@@ -17,7 +17,18 @@
 更快捷的python包导入数据的方式就是下载.tar.gz压缩文件包直接解压缩到python环境路径下的"\Lib\site-packages"即可。
 
 ### quanl_data.py
-* 导入package
+```
   import numpy as np 
   import pandas as pd
   import quandl, math
+  //导入需要的数据包
+  
+  quandl_code = "NASDAQOMX/NQCN9000CNY"
+  //设置证券数据样本的编码
+  
+  df = quandl.get(quandl_code)
+  //通过调用接口获取数据并存储到dataframe
+  
+  df.fillna(value=0)
+  //使用0填充nan_null
+```
