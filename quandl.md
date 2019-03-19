@@ -18,8 +18,6 @@
 
 ### quanl_data.py
 * 导入package
-(```)
-import numpy as np 
-import pandas as pd
-import quandl, math
-(```)
+  import numpy as np 
+  import pandas as pd
+  import quandl, math
