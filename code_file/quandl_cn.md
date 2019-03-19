@@ -1,7 +1,6 @@
 # 通过Quandl获取证券交易数据
 
 
-
 ## 简介
 
 > [**Quandl**](https://www.quandl.com/)是一个针对**金融投资行业的大数据平台**，它的数据来源包括联合国、世界银行、中央银行等公开数据，核心财务数据来自 CLS集团，Zacks和ICE等，所有的数据源自500多家发布商。![QUANDL](https://www.egouz.com/uploadfile/2017/0919/20170919091540902166.jpg)
@@ -34,3 +33,4 @@
   df.fillna(value=0)
   //使用0填充nan_null
 ```
+
