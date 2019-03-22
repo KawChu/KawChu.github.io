@@ -19,18 +19,18 @@
 
 ### quanl_data.py
 ```
-  import numpy as np 
-  import pandas as pd
-  import quandl, math
-  //导入需要的数据包
-  
-  quandl_code = "NASDAQOMX/NQCN9000CNY"
-  //设置证券数据样本的编码
-  
-  df = quandl.get(quandl_code)
-  //通过调用接口获取数据并存储到dataframe
-  
-  df.fillna(value=0)
-  //使用0填充nan_null
+import numpy as np 
+import pandas as pd
+import quandl, math
+#导入需要的数据包
+
+quandl_code = "NASDAQOMX/NQCN9000CNY"
+#设置证券数据样本的编码
+
+df = quandl.get(quandl_code)
+#通过调用接口获取数据并存储到dataframe
+
+df.fillna(value=0)
+#使用0填充nan_null
 ```
 
