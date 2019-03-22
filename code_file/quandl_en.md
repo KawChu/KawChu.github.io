@@ -19,18 +19,18 @@ A faster way for Python packages to import data is to download .tar.gz compresse
 
 ### quanl_data.py
 ```
-  import numpy as np 
-  import pandas as pd
-  import quandl, math
-  //import the required packet
-  
-  quandl_code = "NASDAQOMX/NQCN9000CNY"
-  //setting the Coding of Securities Data Samples
-  
-  df = quandl.get(quandl_code)
-  //get data by calling the interface and store it in the dataframe
-  
-  df.fillna(value=0)
-  //fill nan_null with 0
+import numpy as np 
+import pandas as pd
+import quandl, math
+#import the required packet
+
+quandl_code = "NASDAQOMX/NQCN9000CNY"
+#setting the Coding of Securities Data Samples
+
+df = quandl.get(quandl_code)
+#get data by calling the interface and store it in the dataframe
+
+df.fillna(value=0)
+#fill nan_null with 0
 ```
 
