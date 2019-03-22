@@ -1,4 +1,4 @@
-[返回博客主页](KawChu.github.io/page_cn)
+[返回博客主页](https://kawchu.github.io/page_cn)
 
 
 
