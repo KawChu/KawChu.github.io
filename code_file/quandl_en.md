@@ -1,3 +1,7 @@
+[blog](https://kawchu.github.io/page_cn)
+
+
+
 # **Obtaining Stock Exchange Data through Quandl**
 
 
