@@ -1,4 +1,4 @@
-[blog](https://kawchu.github.io/page_cn)
+[blog](https://kawchu.github.io/page_en)
 
 
 
