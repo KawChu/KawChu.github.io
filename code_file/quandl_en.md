@@ -7,7 +7,9 @@
 
 ## summary
 
-> [**Quandl**](https://www.quandl.com/) is a large data platform for **financial investment industry**. It's data sources include open data such as the United Nations, the World Bank and the Central Bank. The core financial data are from CLS Group, Zacks and ICE, all of which are from more than 500 publishers.              ![QUANDL](https://www.egouz.com/uploadfile/2017/0919/20170919091540902166.jpg)
+> [**Quandl**](https://www.quandl.com/) is a large data platform for **financial investment industry**. It's data sources include open data such as the United Nations, the World Bank and the Central Bank. The core financial data are from CLS Group, Zacks and ICE, all of which are from more than 500 publishers.
+
+![QUANDL](https://www.egouz.com/uploadfile/2017/0919/20170919091540902166.jpg)
 
 We can get the required data samples by for_free or share, and then call the data by downloading/programming interface (using different encoding).
 
